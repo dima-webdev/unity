@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter4-Unity_in_action--master", "Assembly-CSharp.csproj", "{59625021-273F-3CDE-4171-B95B78CDF02C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter4-Unity_in_action--master", "Assembly-CSharp-firstpass.csproj", "{0C443E38-2D86-5C3D-FD78-9E0DDEDB01B7}"
+EndProject
 Project("{49BE8379-ACB0-CB61-7EC5-5F85F7B77356}") = "Chapter4-Unity_in_action--master", "Assembly-UnityScript.unityproj", "{04523664-C042-05CC-7740-1C1A8C76C8DD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter4-Unity_in_action--master", "Assembly-CSharp-Editor-firstpass.csproj", "{B6C9B0B8-5112-2714-8CEC-1C7E90FA1DBE}"
@@ -17,6 +19,10 @@ Global
 		{59625021-273F-3CDE-4171-B95B78CDF02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59625021-273F-3CDE-4171-B95B78CDF02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59625021-273F-3CDE-4171-B95B78CDF02C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C443E38-2D86-5C3D-FD78-9E0DDEDB01B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C443E38-2D86-5C3D-FD78-9E0DDEDB01B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C443E38-2D86-5C3D-FD78-9E0DDEDB01B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C443E38-2D86-5C3D-FD78-9E0DDEDB01B7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{04523664-C042-05CC-7740-1C1A8C76C8DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{04523664-C042-05CC-7740-1C1A8C76C8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04523664-C042-05CC-7740-1C1A8C76C8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
